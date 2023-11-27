@@ -1,4 +1,4 @@
-# Projeto "Nome da Sua Plataforma"
+# Projeto "VarzeaBR"
 
 Bem-vindo ao repositório do projeto "Nome da Sua Plataforma"! Este é um software dedicado a facilitar a gestão de campeonatos que, até então, não contam com uma plataforma de gerenciamento adequada. Seja para jogos de futebol de várzea, box, vôlei, e outros, nossa plataforma visa trazer organização e eficiência para esses eventos esportivos.
 
